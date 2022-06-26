@@ -1,3 +1,5 @@
+package DataStrcuturesAndAlgorithms;
+
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -20,12 +22,12 @@ public class BubbleSortAlgorithm {
                 }
                 System.out.println("\nArray before sorting was performed: \n" + Arrays.toString(bubbleSort));
                 if (size > 1) {
-                    for (int i = 0; i < size; i++) {
-                        for (int j = i + 1; j < size; j++) {
-                            if (bubbleSort[i] > bubbleSort[j]) {
+                    for (int i = 0; i < size - 1; i++) {
+                        for (int j = 0; j < size - i - 1; j++) {
+                            if (bubbleSort[j] > bubbleSort[j + 1]) {
                                 int temp = bubbleSort[j];
-                                bubbleSort[j] = bubbleSort[i];
-                                bubbleSort[i] = temp;
+                                bubbleSort[j] = bubbleSort[j + 1];
+                                bubbleSort[j + 1] = temp;
                             }
                         }
                     }
