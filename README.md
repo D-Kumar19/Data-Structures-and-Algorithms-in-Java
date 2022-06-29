@@ -11,6 +11,7 @@ Coding Challenges:
 3) Double or Nothing: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/DoubleOrNothing
 4) Calculate Water Bill: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/CalculateWaterBill.java
 5) Person Model Challenge: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/Person
+6) Get Date Challenge which will get the Date after number of Days of user's choice: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/GetDate
 
 Lambdas and Streams:
 1) Creating Interfaces for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CreatingInterfacesForStreams
