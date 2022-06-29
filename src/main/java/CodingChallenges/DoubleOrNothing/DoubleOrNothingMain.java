@@ -1,4 +1,4 @@
-package CodingChallenges;
+package CodingChallenges.DoubleOrNothing;
 
 import java.util.Random;
 
