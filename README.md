@@ -10,6 +10,7 @@ Coding Challenges:
 2) Password Complexity: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/PasswordComplexity.java
 3) Double or Nothing: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/DoubleOrNothing
 4) Calculate Water Bill: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/CalculateWaterBill.java
+5) Person Model Challenge: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/Person
 
 Lambdas and Streams:
 1) Creating Interfaces for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CreatingInterfacesForStreams
