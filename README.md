@@ -1,5 +1,5 @@
-# Data-Structures-and-Algorithms-in-Java
-This repo will have implementation of Data Structures and Algorithms and some coding challenges in Java
+# Practicing Java
+This repo will include coding challenges that I have done, OOP examples, programs of DSA in Java, Lambdas and Streams
 
 Data Strcutures and Algorithms:
 1) Euclidean Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/EuclidAlgorithm.java
