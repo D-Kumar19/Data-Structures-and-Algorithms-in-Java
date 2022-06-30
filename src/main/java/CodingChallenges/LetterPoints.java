@@ -3,6 +3,7 @@ package CodingChallenges;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public class LetterPoints {
     private static final Map<Character, Integer> letterPoints =
@@ -26,6 +27,7 @@ public class LetterPoints {
     }
 
     static int wordScoreCalculator(String word) {
+//        Using Loop:
         word = word.toUpperCase(Locale.ROOT);
         int i = 0;
         int score = 0;
@@ -34,5 +36,18 @@ public class LetterPoints {
             i++;
         }
         return score;
+
+//        Using Streams:
+//        AtomicInteger score = new AtomicInteger();
+//        word = word.toUpperCase(Locale.ROOT);
+//        word.chars()
+//                .filter(Character::isAlphabetic)
+//                .mapToObj(n -> (char) n)
+//                .forEachOrdered(letter -> {
+//                    if(letterPoints.containsKey(letter)){
+//                        score.addAndGet(letterPoints.get(letter));
+//                    }
+//                });
+//        return score.get();
     }
 }
