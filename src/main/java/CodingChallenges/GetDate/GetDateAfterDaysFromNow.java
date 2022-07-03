@@ -160,6 +160,8 @@ public class GetDateAfterDaysFromNow {
     }
 
     public static void getDateAfterDays(int dayOfMonth, int month, int year, int daysCount) {
+        // Using a General Long Method:
+        /*
         int numberOfDays = 0;
         boolean firstMonth = true;
 
@@ -185,6 +187,11 @@ public class GetDateAfterDaysFromNow {
 
         System.out.print("Date after " + daysCount + " days is: ");
         formatOutput(year, month, dayOfMonth);
+        */
+
+        // More Simple Method using Built-in API:
+        LocalDate date = LocalDate.of(year, month, dayOfMonth);
+        System.out.println(date.plusDays(daysCount));
     }
 
     public static void formatOutput(int year, int month, int dayOfMonth){
