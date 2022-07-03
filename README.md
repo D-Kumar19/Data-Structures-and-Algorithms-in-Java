@@ -11,8 +11,9 @@ Object Oriented Programming in Java:
 3) Book Store: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/UsingClasses/BookStore
 4) Motor Bike: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/UsingClasses/MotorBike
 5) Freatures of a Character: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/UsingClasses/MyCharacter
-6) Operations on two numbers: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/UsingClasses/OperationsOnNumbers
+6) Operations on two numbers (Addition, Multiplication, Doubling): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/UsingClasses/OperationsOnNumbers
 7) Calculating Simple Interest: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/UsingClasses/SimpleInterestCalculator
+8) Operations on Number Extended (Checking Prime, Sum till N, Sum of Divisors till N, Printing Squares and Cube till N): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/UsingClasses/OperationsOnNumberExtended
 
 Lambdas and Streams:
 1) Creating Interfaces for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CreatingInterfacesForStreams
