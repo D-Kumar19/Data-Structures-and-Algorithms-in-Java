@@ -1,5 +1,5 @@
 DSA, OOP, Lambdas and Streams and Coding Challenges in Java
-This repo will include programs of DSA in Java, OOP examples, Lambdas and Streams and Coding Challenges that I have done.
+This repository will include programs of DSA in Java, OOP examples, Lambdas and Streams and Coding Challenges that I have done.
 
 # Data Structures and Algorithms:
 Euclidean Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/EuclidAlgorithm.java
@@ -8,23 +8,26 @@ Bubble Sort Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorith
 ==========================================================================================
 
 # Object-Oriented Programming in Java
-# Abstraction:
-### Abstract Methods:
-1) Recipe Book Example: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample1RecipeBook
-2) Animals Example: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample2Animals
-   --> Interfaces: 1) Gaming Console: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample1GamingConsole 2) Playing with Numbers: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample2PlayingWithNumbers 3) Flyable: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample3Flyable
+## Abstraction:
+   ### Abstract Methods:
+   1) Recipe Book Example: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample1RecipeBook
+   2) 2) Animals Example: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample2Animals
+   
+   ### Interfaces:
+   1) Gaming Console: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample1GamingConsole
+   2) Playing with Numbers: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample2PlayingWithNumbers
+   3) Flyable: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample3Flyable
 
-==> Composition:
+## Composition:
+   1) Books Extended Example with Review: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/BookExtended
+   2) Customers which has a Address: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/Customers
+   
+## Polymorphism:
+   1) Doctor Example with Practitioner and Surgeon: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Polymorphism
 
-Books Extended Example with Review: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/BookExtended
-Customers which has a Address: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/Customers
-==> Polymorphism:
-
-Doctor Example with Practitioner and Surgeon: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Polymorphism
-==> Inheritance:
-
-Using Person for Student and Employee: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample1PersonClass
-Extending ArrayList for Push and Pop: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample2ArrayList
+## Inheritance:
+   1) Using Person for Student and Employee: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample1PersonClass
+   2) Extending ArrayList for Push and Pop: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample2ArrayList
 ==> General Examples:
 
 Book Store: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/BookStore
