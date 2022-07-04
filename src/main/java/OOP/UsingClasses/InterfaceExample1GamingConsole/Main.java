@@ -1,4 +1,4 @@
-package OOP.UsingClasses.InterfaceExampleGamingConsole;
+package OOP.UsingClasses.InterfaceExample1GamingConsole;
 
 public class Main {
     public static void main(String[] args) {
