@@ -1,4 +1,4 @@
-package OOP.AbstractMethods.AbstractExample1RecipeBook;
+package OOP.Abstraction.AbstractMethods.AbstractExample1RecipeBook;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOP.Interfaces.InterfaceExample2PlayingWithNumbers;
+package OOP.Abstraction.Interfaces.InterfaceExample2PlayingWithNumbers;
 
 public interface Numbers {
     int complexAlgorithm(int number1, int number2);

@@ -1,4 +1,4 @@
-package OOP.UsingClasses.Interfaces.InterfaceExample3Flyable;
+package OOP.Abstraction.Interfaces.InterfaceExample3Flyable;
 
 public class Bird implements Flyable {
     @Override

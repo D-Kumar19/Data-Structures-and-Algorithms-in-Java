@@ -1,4 +1,4 @@
-package OOP.Interfaces.InterfaceExample2PlayingWithNumbers;
+package OOP.Abstraction.Interfaces.InterfaceExample2PlayingWithNumbers;
 
 public class ImplementingNumbers2 implements Numbers {
     @Override

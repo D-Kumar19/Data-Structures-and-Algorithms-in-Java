@@ -1,4 +1,4 @@
-package OOP.AbstractMethods.AbstractExample1RecipeBook;
+package OOP.Abstraction.AbstractMethods.AbstractExample1RecipeBook;
 
 class FrozenPizza extends Recipe {
     @Override

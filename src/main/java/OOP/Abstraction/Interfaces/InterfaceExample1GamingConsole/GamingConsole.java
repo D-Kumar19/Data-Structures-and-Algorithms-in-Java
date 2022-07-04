@@ -1,4 +1,4 @@
-package OOP.Interfaces.InterfaceExample1GamingConsole;
+package OOP.Abstraction.Interfaces.InterfaceExample1GamingConsole;
 
 public interface GamingConsole {
     void up();

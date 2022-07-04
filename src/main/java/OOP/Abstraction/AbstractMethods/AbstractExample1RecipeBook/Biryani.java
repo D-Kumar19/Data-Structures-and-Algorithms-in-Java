@@ -1,4 +1,4 @@
-package OOP.AbstractMethods.AbstractExample1RecipeBook;
+package OOP.Abstraction.AbstractMethods.AbstractExample1RecipeBook;
 
 public class Biryani extends Recipe {
     @Override
