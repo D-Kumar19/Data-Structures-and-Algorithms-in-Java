@@ -5,7 +5,7 @@
 1) Euclidean Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/EuclidAlgorithm.java
 2) Bubble Sort Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/BubbleSortAlgorithm.java
 
-==============================================================================
+==========================================================================
 
 # Object-Oriented Programming in Java
 ## Abstraction:
@@ -41,7 +41,7 @@
 8) Properties of Rectangle (Area, Perimeter): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/RectangleProperties
 9) Properties of a Fan (Make, isOn, Speed): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/Fans
 
-==============================================================================
+==========================================================================
 
 # Lambdas and Streams:
 
@@ -49,7 +49,7 @@
 2) Built-in Interface for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/UsingBuiltinInterfaces
 3) Streams Using Lambdas: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/StreamsUsingLambdas
 
-==============================================================================
+==========================================================================
 
 # Coding Challenges:
 1) Check if number is Odd or Even: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/CodingChallenges/EvenOrOdd.java
