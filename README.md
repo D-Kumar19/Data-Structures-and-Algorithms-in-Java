@@ -1,5 +1,5 @@
-DSA, OOP, Lambdas and Streams and Coding Challenges in Java<br />
-This repository will include programs of DSA in Java, OOP examples, Lambdas and Streams and Coding Challenges that I have done.
+## DSA, OOP, Lambdas and Streams and Coding Challenges in Java<br />
+### This repository will include programs of DSA in Java, OOP examples, Lambdas and Streams and Coding Challenges that I have done.
 
 # Data Structures and Algorithms:
 1) Euclidean Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/EuclidAlgorithm.java
