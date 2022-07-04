@@ -48,6 +48,7 @@
 1) Creating Interfaces for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CreatingInterfacesForStreams
 2) Built-in Interface for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/UsingBuiltinInterfaces
 3) Streams Using Lambdas: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/StreamsUsingLambdas
+4) Over-riding Comparable and Comparator for Sorting: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CollectionsAndComparable
 
 ==========================================================================
 
