@@ -5,7 +5,7 @@ Data Strcutures and Algorithms:
 1) Euclidean Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/EuclidAlgorithm.java
 2) Bubble Sort Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/BubbleSortAlgorithm.java
 
-======================================================================================================================================
+=====================================================================================================
 
 Object Oriented Programming in Java:
 ==> Abstraction: 
