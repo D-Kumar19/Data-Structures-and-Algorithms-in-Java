@@ -44,11 +44,17 @@
 ==========================================================================
 
 # Lambdas and Streams:
-
 1) Creating Interfaces for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CreatingInterfacesForStreams
 2) Built-in Interface for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/UsingBuiltinInterfaces
 3) Streams Using Lambdas: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/StreamsUsingLambdas
 4) Over-riding Comparable and Comparator for Sorting: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CollectionsAndComparable
+5) Stream Examples: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/JavaStreams/StreamExamples/Main.java
+
+==========================================================================
+# Gererics:
+1) Creating a Custom List: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/Generics/CustomList
+2) Generic Methods: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/GenericMethods.java
+3) Wild Cards (LowerBound and UpperBound): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/Wildcards.java
 
 ==========================================================================
 
