@@ -1,4 +1,4 @@
-package Generics;
+package Generics.CustomList;
 
 public class CustomListRunner {
     public static void main(String[] args) {

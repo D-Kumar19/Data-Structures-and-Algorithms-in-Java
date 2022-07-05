@@ -1,4 +1,4 @@
-package Generics;
+package Generics.CustomList;
 
 import java.util.ArrayList;
 
