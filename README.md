@@ -30,7 +30,7 @@
 1) Extending Person class for both Student and Employee: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample1PersonClass
 2) Extending ArrayList for Push and Pop: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample2ArrayList
 ***
-### General Examples:
+### General Examples (Using Encapsulation):
 1) Book Store with Name of the Book and Number of Copies available: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/BookStore
 2) Motor-Bike with Make, Gears and Speed: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/MotorBike
 3) Features of a Character (Vowel, Consonant, Number, LowerCase, UpperCase): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/MyCharacter
@@ -51,7 +51,7 @@
 5) Stream Examples: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/JavaStreams/StreamExamples/Main.java
 
 ==========================================================================
-# Gererics:
+# Generics:
 1) Creating a Custom List: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/Generics/CustomList
 2) Generic Methods: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/GenericMethods.java
 3) Wild Cards (LowerBound and UpperBound): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/Wildcards.java
