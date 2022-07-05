@@ -3,16 +3,16 @@ package Generics;
 import java.util.ArrayList;
 import java.util.List;
 
-public class GenericMethods {
+public class GenericMethods1 {
     public static void main(String[] args) {
         // Using Generics for Methods:
-        String value = GenericMethods.getValue("");
-        Integer number = GenericMethods.getValue(5);
-        ArrayList<String> list5 = GenericMethods.getValue(new ArrayList<>());
+        String value = GenericMethods1.getValue("");
+        Integer number = GenericMethods1.getValue(5);
+        ArrayList<String> list5 = GenericMethods1.getValue(new ArrayList<>());
 
         System.out.println();
         ArrayList<Integer> numbers = new ArrayList<>(List.of(1, 2, 3));
-        GenericMethods.duplicate(numbers);
+        GenericMethods1.duplicate(numbers);
         System.out.println("After Duplicating the List: " + numbers);
 
     }
