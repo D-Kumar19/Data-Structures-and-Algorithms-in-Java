@@ -40,7 +40,5 @@ public class Main {
             return a * b + randomNumber;
         };
         System.out.println("The multiplication of " + x + " and " + y + " and the sum of a Random number is: " + calculator2.applyAsInt(3, 5));
-
-
     }
 }
