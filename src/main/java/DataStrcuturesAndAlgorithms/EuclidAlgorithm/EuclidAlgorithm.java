@@ -1,4 +1,4 @@
-package DataStrcuturesAndAlgorithms;
+package DataStrcuturesAndAlgorithms.EuclidAlgorithm;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
