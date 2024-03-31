@@ -1,83 +1,121 @@
-## DSA, OOP, Lambdas and Streams and Coding Challenges in Java<br />
-### This repository will include programs of DSA in Java, OOP examples, Lambdas and Streams and Coding Challenges that I have done.
+# DSA, OOP, Lambdas and Streams, and Coding Challenges in Java
 
-# Data Structures and Algorithms:
-1) Euclidean Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/EuclidAlgorithm.java
-2) Bubble Sort Algorithm: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/BubbleSortAlgorithm.java
+This repository contains programs related to Data Structures and Algorithms (DSA) in Java, Object-Oriented Programming (OOP) examples, usage of Lambdas and Streams, and various coding challenges that I have tackled. The aim is to provide a comprehensive learning resource for these concepts implemented in Java.
 
-==========================================================================
+## Contents
 
-# Object-Oriented Programming in Java
-## Abstraction:
-***
-### Abstract Methods:
-1) Recipe Book Example using same Recipe Abstract Method: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample1RecipeBook
-2) Animals Example (Dogs and Cats using same Abstract Method): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample2Animals
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Object-Oriented Programming in Java](#object-oriented-programming-in-java)
+- [Lambdas and Streams](#lambdas-and-streams)
+- [Generics](#generics)
+- [Unit Testing](#unit-testing)
+- [Coding Challenges](#coding-challenges)
 
-### Interfaces: 
-1) Gaming Console (Chess and Mario): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample1GamingConsole
-2) Playing with Numbers (Multiplication and Addition): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample2PlayingWithNumbers
-3) Flyable (Objects which can Fly e.g. Birds, Aeroplane): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample3Flyable
-***
-### Composition:
-1) Books Extended Example which has a Review: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/BookExtended
-2) Customers Class which has an Address: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/Customers
-***
-### Polymorphism:
-1) Doctor Example used by both Practitioner and Surgeon: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Polymorphism
-***
-### Inheritance:
-1) Extending Person class for both Student and Employee: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample1PersonClass
-2) Extending ArrayList for Push and Pop: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample2ArrayList
-***
-### General Examples (Using Encapsulation):
-1) Book Store with Name of the Book and Number of Copies available: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/BookStore
-2) Motor-Bike with Make, Gears and Speed: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/MotorBike
-3) Features of a Character (Vowel, Consonant, Number, LowerCase, UpperCase): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/MyCharacter
-4) Operations on Two Numbers (Addition, Multiplication, Doubling): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/OperationsOnNumbers
-5) Calculating Simple Interest: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/SimpleInterestCalculator
-6) Operations on Number Extended (Checking Prime, Sum till N, Sum of Divisors till N, Printing Squares and Cube till N): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/OperationsOnNumberExtended
-7) Student Class to get Name, Marks and get Number of Subjects, Maximum and Minimum Marks, Total and Average Marks, Add and Remove Marks: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/Student
-8) Properties of Rectangle (Area, Perimeter): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/RectangleProperties
-9) Properties of a Fan (Make, isOn, Speed): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/Fans
+## Data Structures and Algorithms
 
-==========================================================================
+Below are some of the DSA concepts implemented in Java:
 
-# Lambdas and Streams:
-1) Creating Interfaces for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CreatingInterfacesForStreams
-2) Built-in Interface for Streams: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/UsingBuiltinInterfaces
-3) Streams Using Lambdas: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/StreamsUsingLambdas
-4) Over-riding Comparable and Comparator for Sorting: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CollectionsAndComparable
-5) Stream Examples: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/JavaStreams/StreamExamples/Main.java
+1. [Euclidean Algorithm](https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/EuclidAlgorithm.java)
+2. [Bubble Sort Algorithm](https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/DataStrcuturesAndAlgorithms/BubbleSortAlgorithm.java)
 
-==========================================================================
-# Generics:
-1) Creating a Custom List: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/Generics/CustomList
-2) Generic Methods: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/GenericMethods.java
-3) Wild Cards (LowerBound and UpperBound): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/Wildcards.java
+---
 
-==========================================================================
-# Unit Testing:
-1) Calculator: 
-   * Calculator Class: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Testing/Calculator/DivisionCalculator.java
-   * Testing of Calculator: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/Calculator/DivisionCalculatorTest.java
-2) Hello World:
-    * Hello World Class: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Testing/HelloWorld/HelloWorld.java
-    * Testing of Hello World: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/HelloWorld/HelloWorldTest.java
-3) Bank Account:
-    * Bank Account Class: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Testing/BankAccount/Account.java
-    * Testing of Bank Account (Testing, Nested Nesting, Assuming, Assertions, Annotations): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/BankAccount/AccountTest.java
-    * Testing of Bank Account (Ordered): https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/BankAccount/AccountTestOrdering.java
-   
-==========================================================================
+## Object-Oriented Programming in Java
 
-# Coding Challenges:
-1) Check if number is Odd or Even: https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/CodingChallenges/EvenOrOdd.java
-2) Password Complexity: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/PasswordComplexity.java
-3) Double or Nothing: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/DoubleOrNothing
-4) Calculate Water Bill: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/CalculateWaterBill.java
-5) Create a Model of a Person Class: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/Person
-6) Get Date Challenge which will get the Date after number of Days of user's choice: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/GetDate
-7) Getting Students with less than 2 Attendance at Volunteering: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/StudentVolunteerAttendance.java
-8) Letter Points Challenge: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/LetterPoints.java
-9) Create a Store class and get the least expensive Item: https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/LeastExpensiveItem
+### Abstraction
+
+#### Abstract Methods
+- [Recipe Book Example](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample1RecipeBook)
+- [Animals Example (Dogs and Cats)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/AbstractMethods/AbstractExample2Animals)
+
+#### Interfaces
+- [Gaming Console (Chess and Mario)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample1GamingConsole)
+- [Playing with Numbers (Multiplication and Addition)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample2PlayingWithNumbers)
+- [Flyable (Objects that can Fly)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Abstraction/Interfaces/InterfaceExample3Flyable)
+
+### Composition
+- [Books Extended Example](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/BookExtended)
+- [Customers Class with an Address](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Composition/Customers)
+
+### Polymorphism
+- [Doctor Example (Practitioner and Surgeon)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Polymorphism)
+
+### Inheritance
+- [Extending Person class (Student and Employee)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample1PersonClass)
+- [Extending ArrayList for Push and Pop](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/Inheritance/InheritanceExample2ArrayList)
+
+### General Examples (Using Encapsulation)
+- [Book Store](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/BookStore)
+- [Motor-Bike](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/MotorBike)
+- [Features of a Character](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/MyCharacter)
+- [Operations on Two Numbers](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/OperationsOnNumbers)
+- [Calculating Simple Interest](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/SimpleInterestCalculator)
+- [Operations on Number Extended](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/OperationsOnNumberExtended)
+- [Student Class](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/Student)
+- [Properties of Rectangle](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/RectangleProperties)
+- [Properties of a Fan](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/OOP/SimpleClasses/Fans)
+
+---
+
+## Lambdas and Streams
+
+- [Creating Interfaces for Streams](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CreatingInterfacesForStreams)
+- [Built-in Interface for Streams](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/UsingBuiltinInterfaces)
+- [Streams Using Lambdas](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/StreamsUsingLambdas)
+- [Over-riding Comparable and Comparator for Sorting](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/JavaStreams/CollectionsAndComparable)
+- [Stream Examples](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/JavaStreams/StreamExamples/Main.java)
+
+---
+
+## Generics
+
+- [Creating a Custom List](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/Generics/CustomList)
+- [Generic Methods](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/GenericMethods.java)
+- [Wild Cards (LowerBound and UpperBound)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Generics/Wildcards.java)
+
+---
+
+## Unit Testing
+
+### Calculator
+- [Calculator Class](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Testing/Calculator/DivisionCalculator.java)
+- [Testing of Calculator](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/Calculator/DivisionCalculatorTest.java)
+
+### Hello World
+- [Hello World Class](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Testing/HelloWorld/HelloWorld.java)
+- [Testing of Hello World](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/HelloWorld/HelloWorldTest.java)
+
+### Bank Account
+- [Bank Account Class](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/Testing/BankAccount/Account.java)
+- [Testing of Bank Account (Comprehensive)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/BankAccount/AccountTest.java)
+- [Testing of Bank Account (Ordered Tests)](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/test/java/Testing/BankAccount/AccountTestOrdering.java)
+
+---
+
+## Coding Challenges
+
+Challenges that showcase problem-solving using Java:
+
+1. [Check if a number is Odd or Even](https://github.com/D-Kumar19/Data-Structures-and-Algorithms-in-Java/blob/master/src/main/java/CodingChallenges/EvenOrOdd.java)
+2. [Password Complexity Checker](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/PasswordComplexity.java)
+3. [Double or Nothing Game](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/DoubleOrNothing)
+4. [Calculate Water Bill](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/CalculateWaterBill.java)
+5. [Create a Model of a Person Class](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/Person)
+6. [Get Date after X Days](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/GetDate)
+7. [Identify Students with Less than 2 Attendances at Volunteering](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/StudentVolunteerAttendance.java)
+8. [Letter Points Challenge](https://github.com/Dk-Kumar19/OOP-DSA-Streams-in-Java/blob/master/src/main/java/CodingChallenges/LetterPoints.java)
+9. [Find the Least Expensive Item in a Store](https://github.com/D-Kumar19/OOP-DSA-Streams-in-Java/tree/master/src/main/java/CodingChallenges/LeastExpensiveItem)
+
+---
+
+## Contributing
+
+I welcome contributions to this repository! If you have suggestions for improving the game or have found a way to beat the current record, please feel free to contribute. Here's how you can do so:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b <branch_name>`).
+3. Commit your changes (`git commit -m 'Added some features...'`).
+4. Push to the branch (`git push origin <branch_name>`).
+5. Open a pull request.
+
+For any queries or suggestions, feel free to open an issue in the repository.
